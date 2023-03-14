@@ -1,0 +1,14 @@
+El código de "Hello World" en JavaScript es una aplicación básica que muestra un mensaje de saludo en la consola del navegador. A continuación, se explica cómo utilizar este código:
+
+Paso 1: Descargar el código
+Puedes descargar el código del repositorio de GitHub, en el siguiente enlace: https://github.com/Sarcoma505/hello-world-js
+
+Paso 2: Abrir el archivo index.html
+Una vez que hayas descargado el código, abre el archivo index.html en tu navegador web.
+
+Paso 3: Ver el mensaje "Hello World"
+Después de abrir el archivo index.html, deberías ver el mensaje "Hello World" en la consola del navegador. Si no ves el mensaje, asegúrate de que la consola esté abierta en tu navegador y revisa que el código esté correctamente escrito.
+
+Paso 4: Modificar el mensaje
+Si deseas modificar el mensaje de saludo, puedes editar el archivo script.js y cambiar el texto dentro de la función console.log(). Guarda los cambios y vuelve a cargar el archivo index.html para ver el nuevo mensaje en la consola.
+
